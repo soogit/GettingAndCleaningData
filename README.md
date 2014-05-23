@@ -1,11 +1,15 @@
+##README
+
 This readme file contains the details about using the files present in this repository to clean the data.
 
-Following are the contents of this repository:
+###Following are the contents of this repository:
 
 README.md - this file
 CodeBook.md - a description of variables present in the cleaned dataset
 run_analysis.R - the R file containing the script to obtain the clean data from the input data set.
-Prerequisites for executing the R script file
+
+
+###Prerequisites for executing the R script file
 
 Please clone this repo in an appropriate location.
 Set the working directory of R to this repository.
